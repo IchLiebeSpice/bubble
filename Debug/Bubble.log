@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Bubble.cpp
+c:\users\spice\source\repos\bubble\bubble\bubble.cpp(10): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Bubble.vcxproj -> C:\Users\spice\source\repos\Bubble\Debug\Bubble.exe
